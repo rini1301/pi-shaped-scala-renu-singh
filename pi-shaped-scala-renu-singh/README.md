@@ -11,14 +11,14 @@ Competency - Business Analyst
 ## Q1. What is an Event in Event-Driven Architecture?  
 In **Event-Driven Architecture (EDA)**, an *event* is a significant occurrence or change in state that the system recognizes and reacts to. Events typically have a clear beginning and carry details about *what happened, when it happened, and relevant context*.
 
-**Real-World Example: School Bell**  
-- **Event:** The bell rings to signal the end of a class period.  
+**Real-World Example: Traffic Signal**  
+- **Event:** The traffic light turns green.  
 - **Reactions:**  
-  - Students pack their bags and leave the classroom.  
-  - Teachers prepare for the next class.  
-  - Hallway monitors supervise student movement.  
+  - Cars start moving forward.  
+  - Pedestrians wait before crossing.  
+  - Traffic cameras record vehicle movement.  
 
-Here, the *bell ringing* is the event, and the actions triggered by it are the responses.
+Here, the *light turning green* is the event, and the actions triggered by it are the responses.
 
 ---
 
